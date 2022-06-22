@@ -1,0 +1,233 @@
+baseURL = 'https://colindecourt.github.io/'
+languageCode = 'en'
+title = 'Colin Decourt'
+
+# Change the default theme to be use when building the site with Hugo
+theme = "LoveIt"
+
+[params]
+  # LoveIt theme version
+  version = "0.2.X"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    # you can add extra information before the name (HTML format is supported), such as icons
+    pre = ""
+    # you can add extra information after the name (HTML format is supported), such as icons
+    post = ""
+    name = "About me"
+    url = "/"
+    # title will be shown when you hover on this menu link
+    title = ""
+    weight = 1
+  [[menu.main]]
+    identifier = "publications"
+    # you can add extra information before the name (HTML format is supported), such as icons
+    pre = ""
+    # you can add extra information after the name (HTML format is supported), such as icons
+    post = ""
+    name = "Publications"
+    url = "/publications"
+    # title will be shown when you hover on this menu link
+    title = ""
+    weight = 2
+  [[menu.main]]
+    identifier = "teaching"
+    pre = ""
+    post = ""
+    name = "Teaching"
+    url = "/teaching"
+    title = ""
+    weight = 3
+  [[menu.main]]
+    identifier = "cv"
+    pre = ""
+    post = ""
+    name = "CV"
+    url = "/cv"
+    title = ""
+    weight = 4
+
+[params.app]
+    # optional site title override for the app when added to an iOS home screen or Android launcher
+    title = "Colin Decourt"
+    # whether to omit favicon resource links
+    noFavicon = false
+    # modern SVG favicon to use in place of older style .png and .ico files
+    svgFavicon = ""
+    # Android browser theme color
+    themeColor = "#ffffff"
+    # Safari mask icon color
+    iconColor = "#5bbad5"
+    # Windows v8-10 tile color
+    tileColor = "#da532c"
+
+ [params.header]
+    # desktop header mode ("fixed", "normal", "auto")
+    desktopMode = "fixed"
+    # mobile header mode ("fixed", "normal", "auto")
+    mobileMode = "auto"
+    # LoveIt NEW | 0.2.0 Header title config
+    [params.header.title]
+      # URL of the LOGO
+      logo = ""
+      # title name
+      name = ""
+      # you can add extra information before the name (HTML format is supported), such as icons
+      pre = ""
+      # you can add extra information after the name (HTML format is supported), such as icons
+      post = ""
+      # LoveIt NEW | 0.2.5 whether to use typeit animation for title name
+      typeit = false
+
+[params.footer]
+    enable = true
+    # LoveIt NEW | 0.2.0 Custom content (HTML format is supported)
+    custom = ''
+    # LoveIt NEW | 0.2.0 whether to show Hugo and theme info
+    hugo = false
+    # LoveIt NEW | 0.2.0 whether to show copyright info
+    copyright = true
+    # LoveIt NEW | 0.2.0 whether to show the author
+    author = true
+    # Site creation time
+    since = 2022
+    # ICP info only in China (HTML format is supported)
+    icp = ""
+    # license info (HTML format is supported)
+    license = '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
+
+[params.home]
+    # Home page profile
+    [params.home.profile]
+      enable = true
+      # Gravatar Email for preferred avatar in home page
+      gravatarEmail = "decourtcolin@gmail.com"
+      # URL of avatar shown in home page
+      #avatarURL = "images/sw.jpg"
+      # LoveIt CHANGED | 0.2.7 title shown in home page (HTML format is supported)
+      title = "Colin Decourt"
+      # subtitle shown in home page
+      subtitle = "Hello! My name is Colin Decourt, welcome to my personal page!"
+      # whether to use typeit animation for subtitle
+      typeit = false
+      # whether to show social links
+      social = true
+      # LoveIt NEW | 0.2.0 disclaimer (HTML format is supported)
+      disclaimer = ""
+    # Home page posts
+    [params.home.posts]
+      enable = true
+      # special amount of posts in each home posts page
+      paginate = 1
+      # LoveIt DELETED | 0.2.0 replaced with hiddenFromHomePage in params.page
+      # default behavior when you don't set "hiddenFromHomePage" in front matter
+      defaultHiddenFromHomePage = false
+
+  # Social config about the author
+  [params.social]
+    GitHub = "colindecourt"
+    Linkedin = "https://www.linkedin.com/in/colin-decourt-0790b1150/"
+    Googlescholar  = "https://scholar.google.com/citations?user=ffntya4AAAAJ&hl=fr"
+
+
+  # LoveIt CHANGED | 0.2.0 Page config
+  [params.page]
+    # LoveIt NEW | 0.2.0 whether to hide a page from home page
+    hiddenFromHomePage = false
+    # LoveIt NEW | 0.2.0 whether to hide a page from search results
+    hiddenFromSearch = false
+    # LoveIt NEW | 0.2.0 whether to enable twemoji
+    twemoji = false
+    # whether to enable lightgallery
+    lightgallery = false
+    # LoveIt NEW | 0.2.0 whether to enable the ruby extended syntax
+    ruby = true
+    # LoveIt NEW | 0.2.0 whether to enable the fraction extended syntax
+    fraction = true
+    # LoveIt NEW | 0.2.0 whether to enable the fontawesome extended syntax
+    fontawesome = true
+    # whether to show link to Raw Markdown content of the content
+    linkToMarkdown = true
+    # LoveIt NEW | 0.2.4 whether to show the full text content in RSS
+    rssFullText = false
+    # LoveIt NEW | 0.2.0 Table of the contents config
+    [params.page.toc]
+      # whether to enable the table of the contents
+      enable = true
+      # LoveIt NEW | 0.2.9 whether to keep the static table of the contents in front of the post
+      keepStatic = true
+      # whether to make the table of the contents in the sidebar automatically collapsed
+      auto = true
+    # LoveIt CHANGED | 0.2.0 KaTeX mathematical formulas
+    [params.page.math]
+      enable = true
+      # default block delimiter is $$ ... $$ and \\[ ... \\]
+      blockLeftDelimiter = ""
+      blockRightDelimiter = ""
+      # default inline delimiter is $ ... $ and \\( ... \\)
+      inlineLeftDelimiter = ""
+      inlineRightDelimiter = ""
+      # KaTeX extension copy_tex
+      copyTex = true
+      # KaTeX extension mhchem
+      mhchem = true
+    # LoveIt NEW | 0.2.0 Code config
+    [params.page.code]
+      # whether to show the copy button of the code block
+      copy = true
+      # the maximum number of lines of displayed code by default
+      maxShownLines = 10
+    # LoveIt NEW | 0.2.0 Mapbox GL JS config
+    [params.page.mapbox]
+      # access token of Mapbox GL JS
+      accessToken = ""
+      # style for the light theme
+      lightStyle = "mapbox://styles/mapbox/light-v9"
+      # style for the dark theme
+      darkStyle = "mapbox://styles/mapbox/dark-v9"
+      # whether to add NavigationControl
+      navigation = true
+      # whether to add GeolocateControl
+      geolocate = false
+      # whether to add ScaleControl
+      scale = false
+      # whether to add FullscreenControl
+      fullscreen = true
+
+# Markup related config in Hugo
+[markup]
+  # Syntax Highlighting
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = true
+    lineNos = true
+    lineNumbersInTable = true
+    # false is a necessary configuration
+    # (https://github.com/dillonzq/LoveIt/issues/158)
+    noClasses = false
+  # Goldmark is from Hugo 0.60 the default library used for Markdown
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      definitionList = true
+      footnote = true
+      linkify = true
+      strikethrough = true
+      table = true
+      taskList = true
+      typographer = true
+    [markup.goldmark.renderer]
+      # whether to use HTML tags directly in the document
+      unsafe = true
+  # Table Of Contents settings
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 6
+
+# Author config
+[author]
+  name = "Colin Decourt"
+  email = "colindecourt@isae-supaero.fr"
+  link = ""
+
