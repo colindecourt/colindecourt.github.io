@@ -17,7 +17,7 @@ Online course provided by *ANITI* (2021 and 2022) - Professor
 - Object detection (Faster R-CNN, YOLO, evaluation metrics)
 - Object segmentation (FCN, U-Net, DeepLab, Mask R-CNN)
 
-[Slides (available)](/files/pdf/slides_intro2ai_2122.pdf) -- [Practical session (available)](https://drive.google.com/drive/folders/1vBUOt06V9fNeDZp03MEKuKNvj-xaA7C5?usp=sharing) -- [Aditional resources (papers)](https://drive3-pilote.renater.fr/index.php/s/Ejo5RTsHtetRXw3)
+[Slides (available)](/pdf/slides_intro2ai_2122.pdf) -- [Practical session (available)](https://drive.google.com/drive/folders/1vBUOt06V9fNeDZp03MEKuKNvj-xaA7C5?usp=sharing) -- [Aditional resources (papers)](https://drive3-pilote.renater.fr/index.php/s/Ejo5RTsHtetRXw3)
 
 #### Introduction to object detection and segmentation in computer vision
 
