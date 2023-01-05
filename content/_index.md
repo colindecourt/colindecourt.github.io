@@ -15,6 +15,7 @@ My research focuses on adapting and developing deep learning algorithms for scen
 
 ## News
 
+- **21/12/2022**: A new preprint of our work [*A recurrent CNN for online object detection on raw radar frames*](https://arxiv.org/abs/2212.11172) is available on arXiv.
 - **21/07/2022**: Our paper *DAROD: A Deep Automotive Radar Object Detector on Range-Doppler maps* is now available. Check out the [publication](publications) page!
 - **06/06/2022**: Our work *DAROD: A Deep Automotive Radar Object Detector on Range-Doppler maps* has been presented in a poster session at IEEE Intelligent Vehicles Symposium 2022 in Aachen, Germany.
 -  **20/04/2022**: Our paper *DAROD: A Deep Automotive Radar Object Detector on Range-Doppler maps* was accepted to IEEE Intelligent Vehicles Symposium 2022! Check out the [publication](publications) page for more information.
