@@ -48,14 +48,6 @@ theme = "LoveIt"
     url = "/cv"
     title = ""
     weight = 4
-  [[menu.main]]
-    identifier = "cv"
-    pre = ""
-    post = ""
-    name = "Object detection/segmentation"
-    url = "/od_os_course"
-    title = ""
-    weight = 5
 
 [params.app]
     # optional site title override for the app when added to an iOS home screen or Android launcher
