@@ -9,33 +9,40 @@ This page provides a summary of the different subjects that I have taught (and c
 
 #### [Introduction to artificial intelligence - Object detection and classification](https://rufinv.github.io/Intro2AI-class/)
 
-Online course provided by *ANITI* (2021 and 2022) - Professor 
+##### [Course page](od_os_course)
+
+Online course provided by *ANITI* (2021 and 2022) - Assistant professor 
 
 **Contents:**
 - From classification to object detection
-- Object detection/segmentation challenges (MS-COCO, Pascal VOC)
-- Object detection (Faster R-CNN, YOLO, evaluation metrics)
-- Object segmentation (FCN, U-Net, DeepLab, Mask R-CNN)
+- Semantic segmentation: challenges, operators (downsampling, upsampling, ConvTranspose), models (FCN, U-Net, DeepLab...)
+- Object detection and instance segmentation: challenges, two-stage detectors (R-CNN, Fast-RCNN, Faster-RCNN, Mask R-CNN), single-stage detectors (YOLO, SSD, RetinaNet, DETR)
+- Evaluation metrics (COCO AP) and special operations (NMS, IoU)
 
-[Slides (available)](/pdf/slides_intro2ai_2122.pdf) -- [Practical session (available)](https://drive.google.com/drive/folders/1vBUOt06V9fNeDZp03MEKuKNvj-xaA7C5?usp=sharing) -- [Aditional resources (papers)](https://drive3-pilote.renater.fr/index.php/s/Ejo5RTsHtetRXw3)
 
 #### Introduction to object detection and segmentation in computer vision
 
-NeuroAI MSc 2, *ISAE-SUPAERO, 2022* - Assistant professor
+NeuroAI MSc 2, *ISAE-SUPAERO* (2022 and 2023) - Assistant professor
+
+##### [Course page](od_os_course)
 
 **Contents:**
 - From classification to object detection
-- Object detection/segmentation challenges (MS-COCO, Pascal VOC)
-- Object detection (Faster R-CNN, YOLO, evaluation metrics)
-- Object segmentation (FCN, U-Net, DeepLab, Mask R-CNN)
+- Semantic segmentation: challenges, operators (downsampling, upsampling, ConvTranspose), models (FCN, U-Net, DeepLab...)
+- Object detection and instance segmentation: challenges, two-stage detectors (R-CNN, Fast-RCNN, Faster-RCNN, Mask R-CNN), single-stage detectors (YOLO, SSD, RetinaNet, DETR)
+- Evaluation metrics (COCO AP) and special operations (NMS, IoU)
 
 #### Object detection in computer vision
 
-Decision sciences MSc 2, *ISAE-SUPAERO, 2022* - Assistant professor
+Decision sciences MSc 2, *ISAE-SUPAERO* (2022 and 2023) - Assistant professor
+
+##### [Course page](od_os_course)
 
 **Contents:**
-- Introduction to object detection (Faster R-CNN, YOLO, DETR)
-- Introduction to torchvision for object detection prototyping
+- From classification to object detection
+- Semantic segmentation: challenges, operators (downsampling, upsampling, ConvTranspose), models (FCN, U-Net, DeepLab...)
+- Object detection and instance segmentation: challenges, two-stage detectors (R-CNN, Fast-RCNN, Faster-RCNN, Mask R-CNN), single-stage detectors (YOLO, SSD, RetinaNet, DETR)
+- Evaluation metrics (COCO AP) and special operations (NMS, IoU)
 
 #### Introduction to deep learning and big data processing with Spark
 
