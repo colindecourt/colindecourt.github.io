@@ -7,7 +7,7 @@ draft: false
 # About me
 
 
-I am a 2nd year PhD student at [ANITI](https://aniti.univ-toulouse.fr/) (Artificial Natural Intelligence Toulouse Institute), supported by the Université Fédérale Toulouse Midi-Pyrénées, in the frame of "programme d'investissements d'avenir PIA3" (Plan Villani). 
+I am a 3rd year PhD student at [ANITI](https://aniti.univ-toulouse.fr/) (Artificial Natural Intelligence Toulouse Institute), supported by the Université Fédérale Toulouse Midi-Pyrénées, in the frame of "programme d'investissements d'avenir PIA3" (Plan Villani). 
 
 I received my Master’s degree in telecommunications and artificial intelligence from Bordeaux INP - ENSEIRB-MATMECA (Bordeaux, France) in 2020. I started my PhD with ISAE-SUPAERO, CerCo (CNRS UMR5549) and NXP Semiconductors in October 2020, under the supervision of [Rufin VanRullen](https://rufinv.github.io/) (CerCo), [Thomas Oberlin](https://pagespro.isae-supaero.fr/thomas-oberlin/?lang=fr) (DISC, ISAE-SUPAERO) and Didier Salle (NXP Semiconductors).
 
