@@ -9,7 +9,7 @@ This page provides a summary of the different subjects that I have taught (and c
 
 #### [Introduction to artificial intelligence - Object detection and classification](https://rufinv.github.io/Intro2AI-class/)
 
-##### [Course page](https://colindecourt.github.io/od_os_course/)
+*[Course page](https://colindecourt.github.io/od_os_course/)*
 
 Online course provided by *ANITI* (2021 and 2022) - Assistant professor 
 
@@ -24,7 +24,7 @@ Online course provided by *ANITI* (2021 and 2022) - Assistant professor
 
 NeuroAI MSc 2, *ISAE-SUPAERO* (2022 and 2023) - Assistant professor
 
-##### [Course page](https://colindecourt.github.io/od_os_course/)
+*[Course page](https://colindecourt.github.io/od_os_course/)*
 
 **Contents:**
 - From classification to object detection
@@ -36,7 +36,7 @@ NeuroAI MSc 2, *ISAE-SUPAERO* (2022 and 2023) - Assistant professor
 
 Decision sciences MSc 2, *ISAE-SUPAERO* (2022 and 2023) - Assistant professor
 
-##### [Course page](https://colindecourt.github.io/od_os_course/)
+*[Course page](https://colindecourt.github.io/od_os_course/)*
 
 **Contents:**
 - From classification to object detection
