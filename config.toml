@@ -128,7 +128,7 @@ theme = "LoveIt"
   # Social config about the author
   [params.social]
     GitHub = "colindecourt"
-    Linkedin = "https://www.linkedin.com/in/colin-decourt-0790b1150/"
+    Linkedin = "colin-decourt-0790b1150"
     Googlescholar  = "https://scholar.google.com/citations?user=ffntya4AAAAJ&hl=fr"
 
 
