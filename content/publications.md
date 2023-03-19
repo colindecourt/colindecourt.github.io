@@ -27,7 +27,7 @@ Automotive radar sensors provide valuable information for advanced driving assis
 Due to the small number of raw data automotive radar datasets and the low resolution of such radar sensors, automotive radar object detection has been little explored with deep learning models in comparison to camera and lidar-based approaches. However, radars are low-cost sensors able to accurately sense surrounding object characteristics (e.g., distance, radial velocity, direction of arrival, radar cross-section) regardless of weather conditions (e.g., rain, snow, fog). Recent open-source datasets such as CARRADA, RADDet or CRUW have opened up research on several topics ranging from object classification to object detection and segmentation. In this paper, we present DAROD, an adaptation of Faster R-CNN object detector for automotive radar on the range-Doppler spectra. We propose a light architecture for features extraction, which shows an increased performance compare to heavier vision-based backbone architectures. Our models reach respectively an mAP$\@$0.5 of 55.83 and 46.57 on CARRADA and RADDet datasets, outperforming competing methods. 
 {{< /admonition >}}
 
-[IEEE version](https://ieeexplore.ieee.org/document/9827281) [Poster (.pdf)](/pdf/poster_IV22_decourt_darod.pdf)
+[Paper](https://ieeexplore.ieee.org/document/9827281) --- [Code](https://github.com/colindecourt/darod) --- [Poster (.pdf)](/pdf/poster_IV22_decourt_darod.pdf)
 
 ### Semi-supervised generative adversarial networks for the segmentation of the left ventricle in pediatric MRI  
 *Colin Decourt, Luc Duong*  
