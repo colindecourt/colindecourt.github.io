@@ -6,15 +6,16 @@ draft: false
 
 # About me
 
+I'm currently working as an AI/ML radar system engineer at NXP Semiconductors. 
 
-I am a 3rd year PhD student at [ANITI](https://aniti.univ-toulouse.fr/) (Artificial Natural Intelligence Toulouse Institute), supported by the Université Fédérale Toulouse Midi-Pyrénées, in the frame of "programme d'investissements d'avenir PIA3" (Plan Villani). 
+I obtained my PhD in artificial intelligence from the University of Toulouse in 2023. My thesis took place under [ANITI](https://aniti.univ-toulouse.fr/) (Artificial Natural Intelligence Toulouse Institute), supported by the Université Fédérale Toulouse Midi-Pyrénées, and was supervised by [Rufin VanRullen](https://rufinv.github.io/) (CerCo), [Thomas Oberlin](https://pagespro.isae-supaero.fr/thomas-oberlin/?lang=fr) (DISC, ISAE-SUPAERO) and Didier Salle (NXP Semiconductors). During my PhD, I worked on adapting and developing deep learning algorithms (supervised and self-supervised) for scene understanding using automotive FMCW radars (target detection, classification and tracking) and artificial intelligence. 
 
-I received my Master’s degree in telecommunications and artificial intelligence from Bordeaux INP - ENSEIRB-MATMECA (Bordeaux, France) in 2020. I started my PhD with ISAE-SUPAERO, CerCo (CNRS UMR5549) and NXP Semiconductors in October 2020, under the supervision of [Rufin VanRullen](https://rufinv.github.io/) (CerCo), [Thomas Oberlin](https://pagespro.isae-supaero.fr/thomas-oberlin/?lang=fr) (DISC, ISAE-SUPAERO) and Didier Salle (NXP Semiconductors).
+Previous, I received my Master’s degree in telecommunications and artificial intelligence from Bordeaux INP - ENSEIRB-MATMECA (Bordeaux, France) in 2020.
 
-My research focuses on adapting and developing deep learning algorithms for scene understanding using automotive FMCW radars (target detection, classification and tracking) and artificial intelligence. My areas of interest are image and signal processing, radar and computer vision.
+My areas of interest are image and signal processing, radar and computer vision.
 
 ## News
-
+- **19/12/2023**: I finally defended my PhD on December 19 2023! The manuscript will be available soon.
 - **25/04/2023**: We released the code and an updated version of our work [*A recurrent CNN for online object detection on raw radar frames*](https://arxiv.org/abs/2212.11172v2). The code is available [here](https://github.com/colindecourt/record).
 - **21/12/2022**: A new preprint of our work [*A recurrent CNN for online object detection on raw radar frames*](https://arxiv.org/abs/2212.11172v2) is available on arXiv.
 - **21/07/2022**: Our paper *DAROD: A Deep Automotive Radar Object Detector on Range-Doppler maps* is now available. Check out the [publication](publications) page!
