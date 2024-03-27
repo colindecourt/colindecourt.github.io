@@ -45,7 +45,7 @@ theme = "LoveIt"
     pre = ""
     post = ""
     name = "CV"
-    url = "/pdf/cv_2024_long.pdf"
+    url = "/pdf/cv_2024_01.pdf"
     title = ""
     weight = 4
 
