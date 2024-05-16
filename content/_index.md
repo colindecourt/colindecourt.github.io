@@ -13,6 +13,7 @@ Previous, I received my Master’s degree in telecommunications and artificial i
 My areas of interest are image and signal processing, artificial intelligence and computer vision.
 
 ## News
+-**16/05/2024**: Our paper *A recurrent CNN for online object detection on raw radar frames* has been accepted to IEEE Transactions on Intelligent Transportation Systems. 
 - **14/02/2024**: A new preprint of our work [*Leveraging Self-Supervised Instance Contrastive Learning for Radar Object Detection*](https://arxiv.org/abs/2402.08427) is available on arXiv.
 - **19/12/2023**: I finally defended my PhD on December 19 2023! The manuscript will be available soon.
 - **25/04/2023**: We released the code and an updated version of our work [*A recurrent CNN for online object detection on raw radar frames*](https://arxiv.org/abs/2212.11172v2). The code is available [here](https://github.com/colindecourt/record).
